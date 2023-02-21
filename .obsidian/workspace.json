@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "0de2f65f741cb09d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7875c58aa6b07fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7b8ccf75423123e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ramblings on my mind/2023-02-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d38c8af527aa91ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "27e09246f891ff94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2b4d7d94edd35dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5eaa010f68c516d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02db5ca6668ba7f9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a14e5f8da66491e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "19658fcd6965d3c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceccfade67af8d8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ramblings on my mind/2023-02-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29b5eb9eb089741a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ramblings on my mind/2023-02-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "502a6e3e6a35154f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed3abfc1e5a14ef3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ramblings on my mind/2023-02-21.md"
+              }
+            }
+          },
+          {
+            "id": "d65c206aaaae2041",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b063ee084dce7c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ramblings on my mind/2023-01-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82be720abe20d1df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ramblings on my mind/2023-01-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e624b8bc2016bebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ramblings on my mind/2023-01-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a3b0637b4e2cc28",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a7b8ccf75423123e",
+  "lastOpenFiles": [
+    "get work done/consistency list.md",
+    "ramblings on my mind/2023-02-21.md",
+    "ramblings on my mind/2023-01-17.md",
+    "ramblings on my mind/2023-01-03.md",
+    "Untitled.md",
+    "Recording 20230102062021.webm",
+    "Recording 20230102055738.webm.md",
+    "ramblings on my mind/2023-01-02.md",
+    "Recording 20230102055738.webm",
+    "Untitled.canvas"
+  ]
+}
